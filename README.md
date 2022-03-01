@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Asghar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Web Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **E Dukaan which is an Online Store.**
 
